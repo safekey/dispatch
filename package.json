@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/safekey/dispatch/issues"
   },
-  "homepage": "https://github.com/safekey/dispatch#readme"
+  "homepage": "https://github.com/safekey/dispatch#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
 }
